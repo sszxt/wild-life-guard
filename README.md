@@ -87,8 +87,6 @@ wildlifeguard/
 └── "articles regarding the animal intrusions"  # Related articles
 ```
 
-```
-
 ## Configuration
 
 - **Detection Model**: Replace or fine-tune models in `/models`
