@@ -100,5 +100,3 @@ Contributions are welcome! Please open issues or submit pull requests for bug fi
 ---
 
 *Developed by Sameer*
-
-```
